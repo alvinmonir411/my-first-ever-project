@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  width: 100%;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+header {
+  position: fixed;
+  background-color: #555;
+}
+.main {
+  width: 100%;
+  height: 60px;
+  display: flex;
+}
+.half {
+  display: flex;
+  width: 50%;
+}
+.icon {
+  color: tomato;
+  font-size: 40px;
+  font-family: arial;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+ul {
+  margin-top: 10px;
+  background-color: #555;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+a {
+  color: white;
+  font-size: 20px;
+  margin-left: 10px;
+}
+a:hover {
+  color: black;
+  background-color: seagreen;
+}
+.firstdiv {
+  margin-top: 100px;
+  height: 500px;
+}
+section {
+  display: flex;
+}
+.text {
+  padding-left: 20px;
+  width: 45%;
+  padding-top: 100px;
+}
+.picture {
+  width: 50%;
+  margin-top: 100px;
+  margin-right: 5px;
+}
+span {
+  color: tomato;
+  font-size: 60px;
+  font-family: arial;
+}
+h2 {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+p {
+  height: 300px;
+  align-items: center;
+  padding-top: 100px;
+  margin-top: 20px;
+  font-size: 20px;
+  width: 90%;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 20px 0px gray;
+  margin-right: 4px;
+}
+.hire a {
+  background-color: tomato;
+  font-size: 30px;
+  border: 3px solid green;
+  border-radius: 10px;
+  margin-left: 60px;
+}
+
+.hire a:hover {
+  background-color: seagreen;
+  color: white;
+}
+.rd {
+  padding-bottom: 100px;
+}
+img {
+  width: 100%;
+  border: 1px solid red;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+strong {
+  font-size: 40px;
+}
+h2 {
+  color: tomato;
+  font-size: 35px;
+  font-weight: bold;
+}
+.dreamaria {
+  height: 60px;
+  margin-bottom: 100px;
+  padding: 10px;
+}
+.last {
+  width: 100%;
+}
+p {
+  padding: 30px 30px;
+}
